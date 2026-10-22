@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="370" viewBox="0 0 1200 370" role="img" aria-labelledby="title desc">
+<title id="title">Harshvardhan Birla — Software Engineer at Oracle</title><desc id="desc">Database internals, distributed systems, security, reliability and low-latency C++. A custom circuit-board illustration accompanies the introduction.</desc>
+
+<defs>
+<linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0d1c27"/><stop offset="1" stop-color="#10292d"/></linearGradient>
+<pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#8fb3b9" opacity=".16"/></pattern>
+<clipPath id="round"><rect width="1200" height="370" rx="22"/></clipPath>
+</defs>
+<g clip-path="url(#round)">
+<rect width="1200" height="370" fill="url(#bg)"/><rect x="735" width="465" height="370" fill="url(#grid)"/>
+<path d="M0 0H1200" stroke="#75e2c1" stroke-width="6"/>
+<circle cx="60" cy="55" r="5" fill="#80e7c5"/>
+<text x="78" y="61" fill="#a8c8ca" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="15" letter-spacing="2.4">SOFTWARE ENGINEER @ ORACLE</text>
+<text x="54" y="145" fill="#f2f8f7" font-family="DejaVu Sans, Arial, sans-serif" font-size="59" font-weight="700" letter-spacing="-2.8">Harshvardhan Birla</text>
+<text x="58" y="202" fill="#8ae5cc" font-family="DejaVu Sans, Arial, sans-serif" font-size="27" font-weight="600" letter-spacing="-.4">Database internals. Distributed systems.</text>
+<text x="59" y="239" fill="#c0d2d6" font-family="DejaVu Sans, Arial, sans-serif" font-size="23">Security, reliability &amp; low-latency C++.</text>
+<path d="M58 283H700" stroke="#325158"/>
+<text x="59" y="320" fill="#a3babe" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="15" letter-spacing=".5">C / C++</text>
+<circle cx="158" cy="315" r="2" fill="#5d8b8d"/>
+<text x="177" y="320" fill="#a3babe" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="15" letter-spacing=".5">DATABASE SECURITY</text>
+<circle cx="363" cy="315" r="2" fill="#5d8b8d"/>
+<text x="383" y="320" fill="#a3babe" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="15" letter-spacing=".5">SYSTEMS ENGINEERING</text>
+<g fill="none" stroke="#42686c" stroke-width="1.5">
+<path d="M773 101H822V72H900M776 263H820V294H928M1148 106H1108V80H1059M1150 256H1112V292H1057"/>
+<rect x="845" y="109" width="230" height="178" rx="14" fill="#10292d"/>
+<rect x="831" y="95" width="230" height="178" rx="14" fill="#10292d"/>
+<rect x="817" y="81" width="230" height="178" rx="14" fill="#142f34" stroke="#73d7bb"/>
+<path d="M848 116H1017M848 224H1017"/>
+<path d="M857 81V64M882 81V64M907 81V64M932 81V64M957 81V64M982 81V64M1007 81V64M857 259V276M882 259V276M907 259V276M932 259V276M957 259V276M982 259V276M1007 259V276"/>
+<rect x="880" y="137" width="104" height="65" rx="8" fill="#1a3e42" stroke="#78d4bd"/>
+</g>
+<text x="932" y="182" text-anchor="middle" fill="#a4f0d8" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="35" font-weight="700" letter-spacing="-2">HB</text>
+<text x="932" y="242" text-anchor="middle" fill="#afc7c8" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="11" letter-spacing="2">CLOSE TO THE SYSTEM</text>
+<circle cx="775" cy="101" r="4" fill="#89e5c9"/><circle cx="1150" cy="256" r="4" fill="#e3bd77"/><circle cx="1016" cy="100" r="3" fill="#e3bd77"/>
+</g>
+
+</svg>

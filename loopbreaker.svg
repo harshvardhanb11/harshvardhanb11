@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="200" viewBox="0 0 1200 200" role="img" aria-labelledby="title desc">
+<title id="title">Loopbreaker</title><desc id="desc">A browser extension that tracks active viewing and introduces intentional pauses in short-form video feeds. Open the project repository.</desc>
+
+<defs><clipPath id="round"><rect width="1200" height="200" rx="16"/></clipPath></defs>
+<g clip-path="url(#round)">
+<rect width="1200" height="200" fill="#242038"/>
+<path d="M0 0H1200" stroke="#b9a4ed" stroke-width="4"/>
+<text x="40" y="43" fill="#b9a4ed" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="14" letter-spacing="2">02 / BROWSER / ATTENTION</text>
+<text x="38" y="105" fill="#f2f5f8" font-family="DejaVu Sans, Arial, sans-serif" font-size="39" font-weight="700" letter-spacing="-1.2">Loopbreaker</text>
+<text x="40" y="153" fill="#bdc9d2" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="18">Browser extension   /   Active-time tracking</text>
+<g transform="translate(880 24)">
+<path d="M110 27C170 27 190 115 137 125C86 136 44 26 5 39C-32 52 9 125 48 125C90 125 106 51 151 39C174 33 193 51 196 73" fill="none" stroke="#8572af" stroke-width="2"/>
+<path d="M110 27C131 27 150 38 160 54" fill="none" stroke="#c9b5f2" stroke-width="3"/>
+<rect x="178" y="86" width="7" height="28" rx="2" fill="#c9b5f2"/><rect x="194" y="86" width="7" height="28" rx="2" fill="#c9b5f2"/>
+<text x="1" y="154" fill="#a79cbd" font-family="DejaVu Sans Mono, monospace" font-size="12" letter-spacing="1">BREAK THE SCROLL CYCLE</text>
+</g>
+<path d="M1151 36H1168V53M1168 36L1151 53" stroke="#b9a4ed" fill="none" stroke-width="2"/>
+</g>
+
+</svg>
