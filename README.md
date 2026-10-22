@@ -1,14 +1,14 @@
 <a href="https://harshvardhanb11.github.io">
   <picture>
-    <source media="(max-width: 600px)" srcset="assets/header-mobile.svg">
-    <img src="assets/header.svg" width="1200" alt="Harshvardhan Birla — Software Engineer at Oracle. Database internals, distributed systems, security, reliability and low-latency C++.">
+    <source media="(max-width: 600px)" srcset="header-mobile.svg">
+    <img src="header.svg" width="1200" alt="Harshvardhan Birla — Software Engineer at Oracle. Database internals, distributed systems, security, reliability and low-latency C++.">
   </picture>
 </a>
 
 <p align="center">
-  <a href="https://harshvardhanb11.github.io"><img src="assets/portfolio.svg" width="172" height="38" alt="Personal website"></a>
+  <a href="https://harshvardhanb11.github.io"><img src="portfolio.svg" width="172" height="38" alt="Personal website"></a>
   &nbsp;&nbsp;
-  <a href="mailto:harshvardhanb11@gmail.com"><img src="assets/email.svg" width="108" height="38" alt="Email Harshvardhan"></a>
+  <a href="mailto:harshvardhanb11@gmail.com"><img src="email.svg" width="108" height="38" alt="Email Harshvardhan"></a>
 </p>
 
 ## 👨‍💻 About me
@@ -26,8 +26,8 @@ I’m **Harshvardhan**, a Software Engineer at **Oracle**. I enjoy working on th
 
 <a href="https://github.com/harshvardhanb11/stablecoin_depeg_prediction_system">
   <picture>
-    <source media="(max-width: 600px)" srcset="assets/event-engine-mobile.svg">
-    <img src="assets/event-engine.svg" width="1200" alt="01 — Stablecoin Depeg Prediction System. C++17, SPSC queue, replay and SQLite. Open repository.">
+    <source media="(max-width: 600px)" srcset="event-engine-mobile.svg">
+    <img src="event-engine.svg" width="1200" alt="01 — Stablecoin Depeg Prediction System. C++17, SPSC queue, replay and SQLite. Open repository.">
   </picture>
 </a>
 
@@ -41,8 +41,8 @@ A **C++17 event-processing backend** with a lock-free SPSC queue, live and repla
 
 <a href="https://github.com/harshvardhanb11/Loopbreaker">
   <picture>
-    <source media="(max-width: 600px)" srcset="assets/loopbreaker-mobile.svg">
-    <img src="assets/loopbreaker.svg" width="1200" alt="02 — Loopbreaker. A browser extension with active-time tracking. Open repository.">
+    <source media="(max-width: 600px)" srcset="loopbreaker-mobile.svg">
+    <img src="loopbreaker.svg" width="1200" alt="02 — Loopbreaker. A browser extension with active-time tracking. Open repository.">
   </picture>
 </a>
 
@@ -54,8 +54,8 @@ A browser extension that makes **short-form video habits visible** and introduce
 
 <a href="https://github.com/harshvardhanb11/curve_dex_limit-order-agent">
   <picture>
-    <source media="(max-width: 600px)" srcset="assets/curve-agent-mobile.svg">
-    <img src="assets/curve-agent.svg" width="1200" alt="03 — Curve DEX Limit Order Agent. C++17, order policies and an offline harness. Open repository.">
+    <source media="(max-width: 600px)" srcset="curve-agent-mobile.svg">
+    <img src="curve-agent.svg" width="1200" alt="03 — Curve DEX Limit Order Agent. C++17, order policies and an offline harness. Open repository.">
   </picture>
 </a>
 
